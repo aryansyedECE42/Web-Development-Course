@@ -3,7 +3,7 @@
 } */
 
 body {
-    font-size: 24px;
+  font-size: 24px;
 }
 
 /* p:hover {
@@ -14,21 +14,23 @@ body {
     color: green;
 } */
 
-#first, #second, #third{
-    color: red;
+#first,
+#second,
+#third {
+  color: red;
 }
 
 #second {
-    color: blue;
+  color: blue;
 }
 
 .purple {
-    color: purple;
-    /* font-family: monospace; */
+  color: purple;
+  /* font-family: monospace; */
 }
 
 .highlight {
-    background-color: yellow;
-    font-weight: bolder;
-    font-style: italic;
+  background-color: yellow;
+  font-weight: bolder;
+  font-style: italic;
 }
